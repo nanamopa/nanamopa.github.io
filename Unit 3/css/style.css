@@ -1,6 +1,6 @@
 html {background: url(http://www.ihdwallfree.com/wp-content/uploads/2013/11/miami-beach-skyline-sunset-hautels--the-haute-5-hotels-in-miami.jpg
 	);
-background-size: large;
+background-size: cover;
 font-family: helvetica; 
 color: #fff;
   text-align: center;
@@ -11,8 +11,7 @@ h1 {font-size: 500px;
 }
 
 
-h2{
-  width: 200px;
+h2{font-size: 300px;
 }
 p {
   font-size: 100px;
