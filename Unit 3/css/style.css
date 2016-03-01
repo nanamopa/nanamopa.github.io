@@ -2,9 +2,9 @@ html {background: url(http://miamirealestatebyelgar.com/wp-content/uploads/2011/
 	);
 background-size: cover;
 font-family: helvetica; 
+font-weight: lighter;
 color: #fff;
   text-align: center;
-  font-weight: lighter;
 }
 
 h1 {font-size: 50px;
@@ -16,7 +16,6 @@ h2{font-size: 20px;
 }
 p {
   font-size: 10px;
-  font-weight: lighter;
   text-align: center;
 }
 
