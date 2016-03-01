@@ -1,6 +1,6 @@
 html {background: url(http://miamirealestatebyelgar.com/wp-content/uploads/2011/11/Miami_Skyline1.jpg
 	);
-background-size: medium;
+background-size: cover;
 font-family: helvetica; 
 color: #fff;
   text-align: center;
@@ -14,11 +14,11 @@ h1 {font-size: 50px;
 h2{font-size: 30px;
 }
 p {
-  font-size: 10px;
+  font-size: 30px;
   font-weight: lighter;
   text-align: center;
 }
 
-h3 {font-size: 100px;
+h3 {font-size: 30px;
 	font-weight: bolder;
 } 
