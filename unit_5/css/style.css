@@ -1,7 +1,6 @@
 html
 {font-family: helvetica;
 	font-weight: lighter;
-	text-align: center;
 }
 	header {
     background-color: #FFED74;
@@ -25,6 +24,7 @@ article {
 
 footer {
 	background: #FF957E;
+
 }
 div{
 	background: #FFE2B8;
@@ -50,6 +50,7 @@ h3 {
 	padding: .02em;
 	text-align: left;
 }
+
 ul {
 	text-align: left
 	font-weight: lighter;
