@@ -43,6 +43,8 @@ h2 {
 	font-size: 1.5em;
 	text-transform: uppercase;
 	padding: .02
+	text-align: center;
+	font-weight: lighter;
 }
 h3 {
 	font-size: 1.2em;
