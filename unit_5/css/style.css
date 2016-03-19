@@ -3,6 +3,8 @@ header {
     border: 1px black solid;
     padding: 20px;
     text-transform: uppercase;
+    text-align: center;
+    font-size: 4em;
 }
 nav {
 	background: #E8C66A;
@@ -25,3 +27,10 @@ div{
 section {
 	background: #FFE2B8;
 	} 
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.5em;
+}
