@@ -1,6 +1,7 @@
 html
 {font-family: helvetica;
 	font-weight: lighter;
+	text-align: center;
 }
 	header {
     background-color: #FFED74;
@@ -35,11 +36,20 @@ h1 {
 	font-size: 1.7em;
 	text-transform: uppercase;
 	padding: .04em;
+	text-align: left;
 }
-
+h2 {
+	font-size: 1.5em;
+	text-transform: uppercase;
+	padding: .02
+}
 h3 {
 	font-size: 1.2em;
 	padding: .02em;
+	text-align: left;
+}
+ul {
+	text-align: right;
 }
 
 article,aside {
