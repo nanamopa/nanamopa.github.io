@@ -1,0 +1,28 @@
+header {
+    background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+header{
+	background: #FFED74;
+	}
+
+nav {
+	background: #E8C66A;
+	} 
+aside {
+	background: #FFC675;
+	} 
+article {
+	background: #E89C6C;
+	}
+
+footer {
+	background: #FF957E;
+}
+div{
+	background: #FFE2B8;
+	}
+section {
+	background: #FFE2B8;
+	} 
