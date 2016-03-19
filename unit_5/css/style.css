@@ -1,4 +1,7 @@
-header {
+html
+{font-family: helvetica;
+}
+	header {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
