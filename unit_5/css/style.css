@@ -1,17 +1,16 @@
 header {
-    background-color: [enter color here];
+    background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
+    text-transform: uppercase;
 }
-header{
-	background: #FFED74;
-	}
-
 nav {
 	background: #E8C66A;
+	text-align: center;
 	} 
 aside {
 	background: #FFC675;
+	text-align: left;
 	} 
 article {
 	background: #E89C6C;
